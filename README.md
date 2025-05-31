@@ -21,6 +21,7 @@ Install the package via Composer:
 ```bash
 composer require your-vendor/enye-generator
 ```
+---
 
 ---
 
