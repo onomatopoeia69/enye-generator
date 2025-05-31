@@ -1,6 +1,6 @@
 # Enye Generator
 
-**Enye Generator** is a Laravel + Livewire package that provides reusable, dynamic form field components Instead of typing field code manually, just click a button and let Enye insert the fields for you.
+**Enye Generator** is a Laravel + Livewire package that provides reusable, dynamic form field components Instead of typing field code manually, just click a button and let Enye insert on the field for you.
 
 ---
 
@@ -10,7 +10,7 @@
 - ⚡ Automatically updates Livewire model properties using Livewire events
 - 🧩 Simple and clean integration into existing Laravel + Livewire projects
 - 🎨 Customizable component views for your UI needs
-- 🖱️ **Generate form fields through an interactive UI — no typing needed**
+- 🖱️ **Generate enye through an interactive UI — no typing needed**
 
 ---
 
