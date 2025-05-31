@@ -3,7 +3,7 @@
     "description": "a simple laravel package using livewire for reusable field components for forms that atteached enye",
     "type": "package",
     "require": {
-        "livewire/livewire": "3.6"
+        "livewire/livewire": "^3.6"
     },
     "license": "MIT",
     "autoload": {
