@@ -1,4 +1,4 @@
-# ✨ Enye Generator
+# Enye Generator
 
 **Enye Generator** is a Laravel + Livewire package that provides reusable, dynamic form field components Instead of typing field code manually, just click a button and let Enye insert the fields for you.
 
@@ -19,10 +19,8 @@
 Install the package via Composer:
 
 ```bash
-composer require your-vendor/enye-generator
+composer require onoma/enye-generator
 ```
----
-
 ---
 
 ## ⚒ Usage 
@@ -33,7 +31,7 @@ To enable automatic property updates, add this trait to your parent Livewire com
 ```bash
 
 use Livewire\Component;
-use YourVendor\EnyeGenerator\Traits\HasModelUpdater;
+use Onoma\EnyeGenerator\Traits\HasModelUpdater;
 
 class MyFormComponent extends Component
 {
@@ -51,7 +49,7 @@ These components emit events that automatically update the corresponding propert
 
 ```bash
 
-  <livewire:field type= {input type} placeholder={placeholder name (optional)} model='{parent model name}' wire:model='{parent model name}' />
+  <livewire:field type='{input type}' placeholder='{placeholder name (optional)}' model='{parent model name}' wire:model='{parent model name}' />
 
 ```
 
