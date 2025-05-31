@@ -1,0 +1,28 @@
+{
+    "name": "onoma/enye-generator",
+    "description": "a simple laravel package using livewire for reusable field components for forms that atteached enye",
+    "type": "package",
+    "require": {
+        "livewire/livewire": "3.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Onoma\\EnyeGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "onomatopoeia69",
+            "email": "carljameslangres@gmail.com"
+        }
+    ],
+     "extra": {
+    "laravel": {
+      "providers": [
+        "Onoma\\EnyeGenerator\\UiKitServiceProvider"
+      ]
+    }
+    },
+    "minimum-stability": "dev"
+}
