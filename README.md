@@ -22,6 +22,8 @@ Install the package via Composer:
 composer require your-vendor/enye-generator
 ```
 
+---
+
 ## ⚒ Usage 
 
 Step 1: Add the HasModelUpdater Trait
