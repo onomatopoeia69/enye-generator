@@ -23,7 +23,7 @@ composer require onoma/enye-generator
 ```
 ---
 
-## ⚒ Usage 
+## Usage 
 
 Step 1: Add the HasModelUpdater Trait
 To enable automatic property updates, add this trait to your parent Livewire component:
