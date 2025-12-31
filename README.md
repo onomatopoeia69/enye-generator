@@ -4,13 +4,13 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Reusable Livewire components for common form fields
-- ⚡ Automatically updates Livewire model properties using Livewire events
-- 🧩 Simple and clean integration into existing Laravel + Livewire projects
-- 🎨 Customizable component views for your UI needs
-- 🖱️ **Generate enye through an interactive UI — no typing needed**
+-  Reusable Livewire components for common form fields
+- Automatically updates Livewire model properties using Livewire events
+- Simple and clean integration into existing Laravel + Livewire projects
+-  Customizable component views for your UI needs
+-  **Generate enye through an interactive UI — no typing needed**
 
 ---
 
